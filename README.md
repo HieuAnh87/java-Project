@@ -1,2 +1,2 @@
 # java-Project
-Link Báo cáo: https://docs.google.com/document/d/19CzHgpXg1hIGZTDc6pN85M_2ZOL6DY-7/edit?usp=sharing&ouid=101295660242579537666&rtpof=true&sd=true
+Link Báo cáo: https://drive.google.com/drive/folders/1pFsEmsS4BXYe9d-zwX0G1qGmltGw2NcC?usp=sharing
