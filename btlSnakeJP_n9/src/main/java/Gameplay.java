@@ -14,10 +14,9 @@ public class Gameplay extends JPanel implements Runnable {
     String eat_sound = "sounds/sfx_point.wav";
     String die_sound = "sounds/sfx_hit.wav";
     Snake snake;
-    static Food food;
-    static StoneNBush sb;
-    static int score = 0;
-    static int bg[][] = new int[30][20];
+    Food food;
+    StoneNBush sb;
+    int score = 0;
     static boolean game_run = false;
     static boolean game_over = false;
     Thread thread;
